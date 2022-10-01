@@ -121,5 +121,3 @@ public final class AASwiftUtils {
         return year
     }
 }
-Footer
-
