@@ -12,7 +12,7 @@ If you are having questions or problems, you should:
 
 Make sure you are using the latest version of the library. Check the release-section.
 - Read the usase
-- Search or open questions on stackoverflow with the AAUtil tag
+- Search or open questions on stackoverflow with the AASwiftUtils tag
 - Search known issues for your problem (open and closed)
 - Create new issues (please search known issues before, do not create duplicate issues)
 
