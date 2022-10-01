@@ -4,7 +4,7 @@ A CocoaPods open source library written in Swift. It has the all common function
 As Swift evolves, if you are not using latest Swift compiler, you shouldn't check out master branch. Instead, you should go to release page and pick up whatever version suits you.
 
 - Xcode 10.0 / Swift 4.2 (master branch)
-- iOS >= 8.0
+- iOS >= 9.0
 
 # Having trouble? Ask questions & issues
 
@@ -18,8 +18,8 @@ Make sure you are using the latest version of the library. Check the release-sec
 
 # Usase
 
-Create an object of AAUtils class.
-- var aaUtils: AAUtils!
+Create an object of AASwiftUtils class.
+- var aaUtils: AASwiftUtils!
 
 Initialize
 - aaUtils = AASwiftUtils()
